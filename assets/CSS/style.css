@@ -12,6 +12,7 @@
     flex-flow: row ;
     justify-content: center;
     align-items: center;
+    min-height: 82hv;
 }
 
 #menu li{
